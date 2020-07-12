@@ -1,2 +1,0 @@
-# Ignore ipynb checkpoints
-.ipynb_checkpoints

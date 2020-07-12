@@ -1,1 +1,5 @@
+# Ignore ipynb checkpoints
+.ipynb_checkpoints
+
+# Ignore fourth_of_july.ipynb
 fourth_of_july.ipynb
